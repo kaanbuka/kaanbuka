@@ -2,7 +2,7 @@
 
 * 🎓 Computer Science & engineering student - building real-world systems with **data** and **web** technologies.
 * 🇹🇷 Based in Turkey.
-* 🎯 Focus: **data science** & analytics, **SQL / relational data**, and **full-stack development** (e.g. MS SQL, Power BI).
+* 🎯 Focus: **data science** & analytics, **SQL / relational data**, and **machine learning** (e.g. MS SQL, Power BI).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaanbuka&color=blue&style=flat-square" alt="Profile views" />
